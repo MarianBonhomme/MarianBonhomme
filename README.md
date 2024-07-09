@@ -1,7 +1,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="c" width="40" height="40"/> </a>
+  <img src="assets/icons/react.svg" alt="React" width="40" height="40"/>
+  <img src="assets/icons/nodejs.svg" alt="NodeJS" width="40" height="40"/>
+  <img src="assets/icons/tailwind.svg" alt="Tailwind CSS" width="40" height="40"/>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianbonhomme&layout=compact)
