@@ -1,3 +1,5 @@
+![Header](assets/icons/header.svg)
+
 <h3 align="left">Favorite Stack:</h3>
 <p align="left">
   <img src="assets/icons/react.svg" alt="react" width="40" height="40"/>
