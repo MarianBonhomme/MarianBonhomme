@@ -1,4 +1,4 @@
-![Header](assets/icons/header.svg)
+![Header](assets/icons/header.png)
 
 <h3 align="left">Favorite Stack:</h3>
 <p align="left">
@@ -33,7 +33,9 @@
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianbonhomme&show_icons=true&theme=dark&hide=contribs,prs,issues)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MarianBonhomme&theme=dark&card_width=500&background=151515&border=E4E2E2&ring=DADADA&fire=79FF97&sideNums=79FF97&currStreakLabel=79FF97)
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=marianbonhomme&show_icons=true&theme=dark&hide=contribs,prs,issues" alt="Anurag's GitHub stats"/>
+  &nbsp
+  <img src="https://streak-stats.demolab.com?user=MarianBonhomme&theme=dark&card_width=480&background=151515&border=E4E2E2&ring=DADADA&fire=79FF97&sideNums=79FF97&currStreakLabel=79FF97" alt="GitHub Streak"/>
+</div>
 
