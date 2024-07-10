@@ -26,10 +26,10 @@
 </p>
 
 <p align="center" style="display: flex; justify-content: center; align-items: center;">
-  <a>
+  <a href="">
     <img height=200 align="center" src="https://streak-stats.demolab.com?user=MarianBonhomme&theme=dark&card_width=500&background=071117&border=30363D&ring=DADADA&fire=79FF97&sideNums=79FF97&currStreakLabel=79FF97" alt="GitHub Streak"/>
   </a>
-  <a>
+  <a href="">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marianbonhomme&layout=donut&card_width=300&theme=dark&bg_color=071117&border_color=30363D&hide_title=true" alt="GitHub Top Langs" />
   </a>
 </p>
