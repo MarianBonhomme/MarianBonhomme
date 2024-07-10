@@ -22,10 +22,10 @@
 </p>
 
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marianbonhomme&show_icons=true&theme=dark&hide=contribs,prs,issues&bg_color=071117&border_color=30363D" alt="GitHub Stats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marianbonhomme&show_icons=true&theme=dark&hide=contribs,prs,issues&card_width=320&bg_color=071117&border_color=30363D" alt="GitHub Stats" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marianbonhomme&show_icons=true&locale=en&layout=donut&theme=dark&bg_color=071117&border_color=30363D" alt="GitHub Top Langs" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marianbonhomme&layout=donut&langs_count=3&card_width=320theme=dark&bg_color=071117&border_color=30363D" alt="GitHub Top Langs" />
 </a>
 
 <div align="center">
