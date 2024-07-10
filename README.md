@@ -1,6 +1,5 @@
 ![Header](assets/icons/headline-2.png)
-
-<h3 align="center">Favorite Stack:</h3>
+<h3 align="center" style="margin-top: 30px;">Favorite Stack:</h3>
 <p align="center">
   <img src="assets/icons/react.svg" alt="react" width="40" height="40"/>
   &nbsp
@@ -42,7 +41,7 @@
   <img src="assets/icons/line.png" alt="separator" />
 </p>
 <h3 align="center">Connect with me:</h3>
-<p align="center">
+<p align="center" style="margin-bottom: 30px;">
   <a href="https://www.instagram.com/marian.bnhm/" target="blank" style="text-decoration: none;">
     <img src="assets/icons/instagram.svg" alt="instagram" width="35" height="35"/>
   </a>
