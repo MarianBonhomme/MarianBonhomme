@@ -21,17 +21,13 @@
   <img src="assets/icons/line.png" alt="separator" align="center" />
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="">
-    <img height=150 align="center" src="https://streak-stats.demolab.com?user=MarianBonhomme&theme=dark&card_width=480&background=071117&border=30363D&ring=DADADA&fire=79FF97&sideNums=79FF97&currStreakLabel=79FF97" alt="GitHub Streak"/>
-  </a>
-  <a href="">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marianbonhomme&layout=donut&langs_count=3&card_width=320&theme=dark&bg_color=071117&border_color=30363D&hide_title=true" alt="GitHub Top Langs" />
-  </a>
-</div>
-<a href="" align="center">
+<p align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img height=150 align="center" src="https://streak-stats.demolab.com?user=MarianBonhomme&theme=dark&card_width=550&background=071117&border=30363D&ring=DADADA&fire=79FF97&sideNums=79FF97&currStreakLabel=79FF97" alt="GitHub Streak"/>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marianbonhomme&layout=donut&card_width=320&theme=dark&bg_color=071117&border_color=30363D&hide_title=true" alt="GitHub Top Langs" />
+</p>
+<p align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marianbonhomme&show_icons=true&theme=dark&hide=contribs,prs,issues&bg_color=071117&border_color=30363D" alt="GitHub Stats" />
-</a>
+</p>
 
 <p align="center">
   <img src="assets/icons/line.png" alt="separator" align="center" />
