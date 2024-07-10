@@ -9,7 +9,7 @@
   &nbsp
   <img src="assets/icons/mysql.svg" alt="mysql" width="40" height="40"/>
 </p>
-<p align="center" style="margin: 30px 0;">
+<p align="center">
   <img src="assets/icons/line.png" alt="separator" />
 </p>
 <h3 align="center">Other Technos:</h3>
