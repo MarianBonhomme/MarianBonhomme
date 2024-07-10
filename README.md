@@ -34,8 +34,8 @@
   <img src="assets/icons/line.png" alt="separator" align="center" />
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marianbonhomme&show_icons=true&theme=dark&hide=contribs,prs,issues&hide_border=true" alt="Anurag's GitHub stats"/>
-  <img src="https://streak-stats.demolab.com?user=MarianBonhomme&theme=dark&card_width=470&background=151515&hide_border=true&ring=DADADA&fire=79FF97&sideNums=79FF97&currStreakLabel=79FF97" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=marianbonhomme&show_icons=true&theme=dark&hide=contribs,prs,issues&bg_color=071117&border_color=30363D" alt="Anurag's GitHub stats"/>
+  <img src="https://streak-stats.demolab.com?user=MarianBonhomme&theme=dark&card_width=470&background=071117&border=30363D&ring=DADADA&fire=79FF97&sideNums=79FF97&currStreakLabel=79FF97" alt="GitHub Streak"/>
 </div>
 <p align="center">
   <img src="assets/icons/line.png" alt="separator" align="center" />
