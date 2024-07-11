@@ -4,6 +4,13 @@
   <img src="assets/icons/line.png" alt="separator" align="center" />
 </p>
 
+<p>👨‍💻 I'm currently student in MyDigitalSchool</p>
+<p>🌍 I recently started my own company : <a href="https://studiosphere.netlify.app">Studio Sphère</a><p>
+
+<p align="center">
+  <img src="assets/icons/line.png" alt="separator" align="center" />
+</p>
+
 <h3 align="center">Favorite Technos:</h3>
 <p align="center">
   <img src="assets/icons/react.svg" alt="react" width="40" height="40"/>
