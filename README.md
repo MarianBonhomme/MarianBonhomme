@@ -5,8 +5,10 @@
 </p>
 
 <p>👨‍💻 I'm 23 years old and based in Montpellier</p>
-<p>👨‍💻 I'm currently student in MyDigitalSchool and apprentice at Septeo</p>
+<p>🎓 I'm currently student in MyDigitalSchool and apprentice at Septeo</p>
 <p>🌍 I recently started my own company <a href="https://studiosphere.netlify.app">Studio Sphère</a>, specialized in professionnals websites crafting<p>
+<p>🔧 My main skills include React, NodeJS and TailwindCSS. I am passionate about delivering high-quality UI/UX designs.</p>
+<p>📫 Feel free to reach out to me via <a href="mailto:marian.bonhomme@gmail.com">email</a> or connect with me on <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/marian-bonhomme-developpeur-montpellier/)">LinkedIn</a>.</p>
 
 <p align="center">
   <img src="assets/icons/line.png" alt="separator" align="center" />
