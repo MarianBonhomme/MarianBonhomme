@@ -4,8 +4,9 @@
   <img src="assets/icons/line.png" alt="separator" align="center" />
 </p>
 
-<p>👨‍💻 I'm currently student in MyDigitalSchool</p>
-<p>🌍 I recently started my own company : <a href="https://studiosphere.netlify.app">Studio Sphère</a><p>
+<p>👨‍💻 I'm 23 years old and based in Montpellier</p>
+<p>👨‍💻 I'm currently student in MyDigitalSchool and apprentice at Septeo</p>
+<p>🌍 I recently started my own company <a href="https://studiosphere.netlify.app">Studio Sphère</a>, specialized in professionnals websites crafting<p>
 
 <p align="center">
   <img src="assets/icons/line.png" alt="separator" align="center" />
